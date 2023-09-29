@@ -1,0 +1,14 @@
+{
+  "dependencies" : [ {
+    "name" : "sdl2",
+    "version>=" : "2.28.3",
+    "features" : [ "vulkan" ]
+  }, {
+    "name" : "fmt",
+    "version>=" : "10.1.1"
+  }, {
+    "name" : "vk-bootstrap",
+    "version>=" : "0.7#1"
+  } ],
+  "builtin-baseline" : "db0473513e5dc73ec6b6f431ff05d2f398eea042"
+}
